@@ -1,0 +1,15 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    max-width: 100%; /* Set a maximum width for the container if needed */
+    margin: 0 auto; /* Center the container horizontally */
+    /* Optional: Add padding or margin to the container if needed */
+}
+
+.full-width-text {
+    width: 100%; /* 100% width of its parent (.container) */
+    /* Optional: Add additional styling as needed for the text */
+}
